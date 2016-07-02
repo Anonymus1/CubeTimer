@@ -1,0 +1,13 @@
+[package]
+name = "cubeTimer"
+version = "0.1.0"
+authors = ["Anonymus1 <AnonymusGithub@gmail.com>"]
+
+[dependencies]
+glib = "^0"
+gdk = "^0"
+gdk-pixbuf = "^0"
+gtk = "^0"
+cairo-rs = "^0"
+
+
